@@ -96,7 +96,6 @@ class Library {
         }
     }
 
-    @SuppressWarnings("unchecked")
     private void loadBooks() {
         try (ObjectInputStream ois = new ObjectInputStream(new FileInputStream(FILE_NAME))) {
             books = (HashMap<String, Book>) ois.readObject();
