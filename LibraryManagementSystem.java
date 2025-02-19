@@ -106,7 +106,7 @@ class Library {
     }
 }
 
-public class LibrarySystem2{
+public class LibraryManagementSystem{
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         Library library = new Library();
