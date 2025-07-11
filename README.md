@@ -55,6 +55,6 @@ The book was added successfully!
 Enter your choice: 4
 
 Available Books:
-- Java for Beginners by John Doe
+Java for Beginners by John Doe
 
  
