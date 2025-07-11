@@ -1,6 +1,6 @@
 
 📚 Library Management System in Java
-A simple console-based Library Management System built using Java as part of an internship task. This project demonstrates the use of Object-Oriented Programming (OOP) concepts to manage library operations such as adding, borrowing, and returning books.
+A simple console-based Library Management System built using Java. This project demonstrates the use of Object-Oriented Programming (OOP) concepts to manage library operations such as adding, borrowing, and returning books.
 
 🚀 Features
 Add new books to the library
