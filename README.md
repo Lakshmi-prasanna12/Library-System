@@ -4,23 +4,16 @@ A simple console-based Library Management System built using Java. This project 
 
 🚀 Features
 Add new books to the library
-
 Borrow books (only if available)
-
 Return books
-
 View all currently available books
-
 Console-based menu for user interaction
 
 ✅ Requirements
-
 Java 8 
-
 Basic understanding of OOP concepts (Classes, Objects, etc.)
 
 🧩 Tech Stack
-
 Java
 Collections (HashMap)
 File handling 
@@ -44,7 +37,6 @@ Collection of Book objects
 Methods to handle add, borrow, return, and view operations
 
 🧪 Sample Console Output
-
 Welcome to the Library System!
 
 1. Add Book
@@ -54,15 +46,11 @@ Welcome to the Library System!
 5. Exit
 
 Enter your choice: 1
-
 Enter book title: Java for Beginners
-
 Enter author name: John Doe
-
 The book was added successfully!
 
 Enter your choice: 4
-
 Available Books:
 Java for Beginners by John Doe
 
